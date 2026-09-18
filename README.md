@@ -17,25 +17,30 @@ Professional experience as a **Web Developer** at Webmóvel (internship, Sep 202
 
 ---
 
-## 💻 Workstation
-
+<div align="center">
+    
+## 💻 Workstations
+ 
 ### 🖥️ Desktop
-
+ 
 | Component | Specification |
 |---|---|
 | CPU | AMD Ryzen 5 5600G |
 | GPU | AMD Radeon RX 6700 XT |
 | RAM | 16GB DDR4 |
 | OS | Windows 11 |
-
+ 
 ### 💻 Portable
-
+ 
 | Component | Specification |
 |---|---|
 | CPU | AMD Ryzen 7 5825U (8-core / 16-thread) |
 | GPU | AMD Radeon Graphics (integrated) |
 | RAM | 16GB DDR4 |
 | OS | Windows 11 |
+ 
+</div>
+
 
 ---
 
